@@ -37,6 +37,7 @@ for page in range(0,6):
             continue
 
         dataframe ={}
+        dataframe["serial_number"] = number_of_restaurants+1
         dataframe["name"] = name.string.replace('\n', ' ').strip()
         dataframe["area"] = area.string.replace('\n', ' ').strip()
         dataframe["rating"] = ratings.string.replace('\n', ' ').strip()

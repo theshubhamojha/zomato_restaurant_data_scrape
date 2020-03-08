@@ -1,81 +1,81 @@
-,name,area,rating,restaurant_type,votes
-0,Big Pitcher,Sarjapur Road,4.5,"['American', 'Continental', 'North Indian', 'Mediterranean']",214
-1,The Big Barbeque,Electronic City,4.8,"['Fast Food', 'North Indian']",5337
-2,Xochi Bar And Kitchen,Bellandur,4.6,"['North Indian', 'Asian', 'Chinese', 'Bar Food', 'Beverages']",589
-3,BLR Brewing Co.,Electronic City,4.4,"['Finger Food', 'North Indian', 'Continental', 'Pizza']",488
-4,Dr. Sheesha 24 Hours Gastro Pub,"The Sahar Pavilion, Electronic City",4.0,"['Chinese', 'North Indian', 'Fast Food', 'Finger Food', 'Italian']",230
-5,Byg Brewski Brewing Company,Sarjapur Road,4.9,"['Continental', 'North Indian', 'Italian', 'South Indian', 'Finger Food', 'Pizza']",23096
-6,URU Brewpark,JP Nagar,4.3,"['Finger Food', 'North Indian', 'Continental', 'Pizza', 'Asian', 'Desserts']",1645
-7,Hoot,Sarjapur Road,4.5,"['Continental', 'Italian', 'North Indian']",11467
-8,Brahma Brews,JP Nagar,4.9,"['Bar Food', 'Asian', 'Italian', 'North Indian', 'South Indian']",4026
-9,The Fisherman's Wharf,Sarjapur Road,4.3,"['North Indian', 'Continental', 'Seafood', 'Goan', 'Asian']",4521
-10,Masala Mandi,Sarjapur Road,4.6,"['North Indian', 'Mughlai']",1109
-11,AB's - Absolute Barbecues,BTM,4.8,"['European', 'Mediterranean', 'North Indian', 'BBQ']",7750
-12,Shivaji Military Hotel,Jayanagar,4.2,"['South Indian', 'Biryani']",3410
-13,The Globe Grub,BTM,4.7,"['Salad', 'North Indian', 'Fast Food', 'Continental']",2441
-14,Stories - The Brew Chapter,BTM,4.8,"['Bar Food', 'North Indian', 'Continental', 'Chinese', 'Beverages']",3828
-15,Meghana Foods,Jayanagar,4.5,"['Biryani', 'Andhra', 'North Indian', 'Seafood']",5216
-16,The Pump House,JP Nagar,4.5,"['Continental', 'Finger Food']",2094
-17,Sarjapur Social,Sarjapur Road,4.5,"['North Indian', 'Chinese', 'Biryani', 'American', 'Continental']",2598
-18,TBC Sky Lounge,HSR,4.9,"['Continental', 'Asian', 'Italian', 'North Indian']",15775
-19,Barbeque Nation,JP Nagar,4.9,"['North Indian', 'European', 'Mediterranean', 'BBQ', 'Kebab']",5695
-20,46 Ounces Brewgarden,Electronic City,4.6,"['Bar Food', 'Finger Food', 'Pizza']",1700
-21,Deja Vu Buffet Bar,JP Nagar,4.6,"['North Indian', 'Fast Food']",3948
-22,Aurum Brew Works,Sarjapur Road,4.6,"['North Indian', 'Modern Indian', 'South Indian', 'Continental']",1965
-23,Mavalli Tiffin Room (MTR),Basavanagudi,4.4,['South Indian'],3196
-24,Vapour Brewpub and Diner,Sarjapur Road,4.6,"['North Indian', 'Continental', 'Italian']",4776
-25,Grasshopper,Bannerghatta Road,4.3,['European'],788
-26,eat.fit,HSR,4.2,"['Healthy Food', 'North Indian', 'Biryani', 'Continental', 'Desserts']",1721
-27,Gilly's Restobar,Electronic City,4.6,"['Continental', 'North Indian', 'Chinese', 'Salad']",2990
-28,Fire Station,Electronic City,4.7,"['Finger Food', 'North Indian', 'Continental', 'Pizza', 'Desserts']",2232
-29,Hakuna Matata,JP Nagar,4.4,"['North Indian', 'Asian', 'Seafood', 'Chinese']",3177
-30,House Of Commons,HSR,4.8,"['Bar Food', 'Asian', 'North Indian', 'Continental', 'Italian']",5442
-31,Levitate Brewery and Kitchen,JP Nagar,4.6,"['Finger Food', 'North Indian', 'Continental']",2168
-32,Stegi - Modern Indian,Jayanagar,4.4,"['North Indian', 'Italian']",877
-33,Al Daaz,HSR,4.3,"['North Indian', 'Continental', 'BBQ']",1358
-34,Gufha - The President Hotel,"The President Hotel, Jayanagar",4.1,"['North Indian', 'Mughlai', 'Afghan']",2006
-35,Sattvam,JP Nagar,4.2,"['North Indian', 'South Indian']",650
-36,What the Ale?!,Electronic City,4.4,"['Finger Food', 'North Indian', 'Continental', 'Pizza']",472
-37,Taaza Thindi,Jayanagar,4.9,['South Indian'],4744
-38,Whattay Kitchen and Brew,Kanakapura Road,4.3,"['Finger Food', 'North Indian', 'Italian', 'Biryani', 'Desserts']",307
-39,The Barbecue Kingdom,Electronic City,4.5,"['North Indian', 'South Indian', 'Beverages']",462
-40,1522 - The Pub,JP Nagar,4.5,"['Chinese', 'North Indian', 'Mughlai', 'Finger Food', 'Seafood']",262
-41,Rural Blues,Sarjapur Road,4.4,"['North Indian', 'Continental', 'Italian', 'Salad', 'Biryani']",2030
-42,By The Peepal,JP Nagar,4.2,"['Finger Food', 'Continental', 'Italian', 'North Indian']",539
-43,Subz,Jayanagar,4.2,['North Indian'],2140
-44,Fat Owl,JP Nagar,4.4,"['Finger Food', 'American', 'Asian', 'Steak', 'North Indian', 'South Indian', 'Burger']",504
-45,Tipsy Bull - The Bar Exchange,JP Nagar,4.7,"['Finger Food', 'North Indian', 'Continental', 'Pizza']",1872
-46,Stories,JP Nagar,4.6,"['American', 'Chinese', 'Continental', 'North Indian']",4035
-47,Vidyarthi Bhavan,Basavanagudi,4.3,['South Indian'],4882
-48,Chulha Chauki Da Dhaba,JP Nagar,4.5,"['North Indian', 'Chinese', 'Mughlai', 'Beverages']",3570
-49,Empire Restaurant,Jayanagar,4.6,"['North Indian', 'Mughlai', 'South Indian', 'Chinese']",6816
-50,E - City Combos,Electronic City,3.5,"['South Indian', 'North Indian', 'Chinese', 'Biryani']",14
-51,La Casa Brewery And Kitchen,Sarjapur Road,4.5,"['Continental', 'North Indian', 'Fast Food', 'Thai', 'Finger Food', 'Andhra']",2908
-52,Onesta,HSR,4.4,"['Italian', 'Pizza', 'Desserts', 'Beverages']",4765
-53,Habit@,Bellandur,4.4,"['Finger Food', 'Continental', 'Pizza', 'Chinese', 'North Indian']",349
-54,Shift,HSR,4.1,"['Finger Food', 'Continental', 'North Indian', 'Pizza']",2452
-55,OPUS Club,"OPUS, Sarjapur Road",4.3,"['Continental', 'Italian', 'North Indian', 'Mexican']",2409
-56,Spice It - Ibis Bengaluru,"Ibis Bengaluru, Marathahalli",4.2,"['North Indian', 'Maharashtrian', 'Continental']",727
-57,Broadway - The Gourmet Theatre,HSR,4.3,"['Japanese', 'Sushi', 'Continental', 'Asian', 'North Indian']",1432
-58,Express by ABs,BTM,3.9,"['North Indian', 'Biryani', 'Kebab', 'BBQ']",40
-59,Brother Barley Brewing Company,HSR,4.3,"['Finger Food', 'Continental', 'Italian', 'Asian', 'North Indian', 'Chinese']",518
-60,Chili's American Grill & Bar,Bellandur,4.6,"['American', 'Tex-Mex', 'Burger', 'BBQ']",2310
-61,The Hidden Home,Sarjapur Road,4.1,"['Asian', 'Chinese', 'Continental', 'North Indian', 'South Indian', 'Biryani']",1632
-62,Go Native,Jayanagar,4.3,"['Healthy Food', 'Modern Indian', 'Desserts']",1576
-63,Waffle Cart,BTM,3.8,"['Fast Food', 'Desserts', 'Beverages']",113
-64,The Punjabi Rasoi,Sarjapur Road,4.2,"['Mughlai', 'North Indian', 'Chinese', 'Beverages']",666
-65,Village - The Soul of India,"Bangalore Central, JP Nagar",4.0,"['Rajasthani', 'Gujarati', 'North Indian', 'South Indian']",2538
-66,Millennials,JP Nagar,4.4,"['Finger Food', 'Continental', 'North Indian', 'Chinese', 'Coffee']",232
-67,Brahmin's Coffee Bar,Basavanagudi,4.7,['South Indian'],2933
-68,Kesariya,JP Nagar,4.2,['Rajasthani'],1376
-69,Ranganna Military Hotel,Jayanagar,4.2,"['South Indian', 'Biryani']",1026
-70,Basil Bistro,HSR,4.5,"['Continental', 'Italian', 'North Indian', 'Chinese']",569
-71,Indigo X II P,HSR,4.3,"['Finger Food', 'Continental', 'Chinese', 'Italian', 'North Indian']",1001
-72,LIT Gastro Pub,Jayanagar,4.0,"['Chinese', 'Continental', 'Burger', 'Pizza']",621
-73,Hammered,HSR,4.4,"['North Indian', 'South Indian', 'Continental', 'Asian']",2152
-74,Crumb Together,JP Nagar,4.2,"['Continental', 'Finger Food', 'North Indian', 'Chinese']",907
-75,Tea Villa Cafe,Jayanagar,4.3,"['Cafe', 'Tea', 'Continental', 'Desserts']",2139
-76,Nandhini Paradise,JP Nagar,3.9,"['Andhra', 'Biryani', 'South Indian', 'North Indian', 'Chinese']",1190
-77,Pepe's Pizza,Bellandur,4.2,"['Pizza', 'Italian', 'Burger', 'Sandwich', 'Desserts', 'Beverages']",513
-78,Olive Grove,Electronic City,4.2,"['Continental', 'North Indian', 'Chinese', 'Italian', 'Mughlai', 'Kebab']",251
-79,Xtreme Sports Bar,Sarjapur Road,4.2,"['Continental', 'Chinese', 'North Indian']",1214
+,serial_number,name,area,rating,restaurant_type,votes
+0,1,Big Pitcher,Sarjapur Road,4.5,"['American', 'Continental', 'North Indian', 'Mediterranean']",214
+1,2,The Big Barbeque,Electronic City,4.8,"['Fast Food', 'North Indian']",5337
+2,3,Xochi Bar And Kitchen,Bellandur,4.6,"['North Indian', 'Asian', 'Chinese', 'Bar Food', 'Beverages']",589
+3,4,BLR Brewing Co.,Electronic City,4.4,"['Finger Food', 'North Indian', 'Continental', 'Pizza']",488
+4,5,Dr. Sheesha 24 Hours Gastro Pub,"The Sahar Pavilion, Electronic City",4.0,"['Chinese', 'North Indian', 'Fast Food', 'Finger Food', 'Italian']",230
+5,6,Byg Brewski Brewing Company,Sarjapur Road,4.9,"['Continental', 'North Indian', 'Italian', 'South Indian', 'Finger Food', 'Pizza']",23096
+6,7,URU Brewpark,JP Nagar,4.3,"['Finger Food', 'North Indian', 'Continental', 'Pizza', 'Asian', 'Desserts']",1645
+7,8,Hoot,Sarjapur Road,4.5,"['Continental', 'Italian', 'North Indian']",11467
+8,9,Brahma Brews,JP Nagar,4.9,"['Bar Food', 'Asian', 'Italian', 'North Indian', 'South Indian']",4026
+9,10,The Fisherman's Wharf,Sarjapur Road,4.3,"['North Indian', 'Continental', 'Seafood', 'Goan', 'Asian']",4521
+10,11,Masala Mandi,Sarjapur Road,4.6,"['North Indian', 'Mughlai']",1109
+11,12,AB's - Absolute Barbecues,BTM,4.8,"['European', 'Mediterranean', 'North Indian', 'BBQ']",7750
+12,13,Shivaji Military Hotel,Jayanagar,4.2,"['South Indian', 'Biryani']",3410
+13,14,The Globe Grub,BTM,4.7,"['Salad', 'North Indian', 'Fast Food', 'Continental']",2441
+14,15,Stories - The Brew Chapter,BTM,4.8,"['Bar Food', 'North Indian', 'Continental', 'Chinese', 'Beverages']",3828
+15,16,Meghana Foods,Jayanagar,4.5,"['Biryani', 'Andhra', 'North Indian', 'Seafood']",5216
+16,17,The Pump House,JP Nagar,4.5,"['Continental', 'Finger Food']",2094
+17,18,Sarjapur Social,Sarjapur Road,4.5,"['North Indian', 'Chinese', 'Biryani', 'American', 'Continental']",2598
+18,19,TBC Sky Lounge,HSR,4.9,"['Continental', 'Asian', 'Italian', 'North Indian']",15775
+19,20,Barbeque Nation,JP Nagar,4.9,"['North Indian', 'European', 'Mediterranean', 'BBQ', 'Kebab']",5695
+20,21,46 Ounces Brewgarden,Electronic City,4.6,"['Bar Food', 'Finger Food', 'Pizza']",1700
+21,22,Deja Vu Buffet Bar,JP Nagar,4.6,"['North Indian', 'Fast Food']",3948
+22,23,Aurum Brew Works,Sarjapur Road,4.6,"['North Indian', 'Modern Indian', 'South Indian', 'Continental']",1965
+23,24,Mavalli Tiffin Room (MTR),Basavanagudi,4.4,['South Indian'],3196
+24,25,Vapour Brewpub and Diner,Sarjapur Road,4.6,"['North Indian', 'Continental', 'Italian']",4776
+25,26,Grasshopper,Bannerghatta Road,4.3,['European'],788
+26,27,eat.fit,HSR,4.2,"['Healthy Food', 'North Indian', 'Biryani', 'Continental', 'Desserts']",1721
+27,28,Gilly's Restobar,Electronic City,4.6,"['Continental', 'North Indian', 'Chinese', 'Salad']",2990
+28,29,Fire Station,Electronic City,4.7,"['Finger Food', 'North Indian', 'Continental', 'Pizza', 'Desserts']",2232
+29,30,Hakuna Matata,JP Nagar,4.4,"['North Indian', 'Asian', 'Seafood', 'Chinese']",3177
+30,31,House Of Commons,HSR,4.8,"['Bar Food', 'Asian', 'North Indian', 'Continental', 'Italian']",5442
+31,32,Levitate Brewery and Kitchen,JP Nagar,4.6,"['Finger Food', 'North Indian', 'Continental']",2168
+32,33,Stegi - Modern Indian,Jayanagar,4.4,"['North Indian', 'Italian']",877
+33,34,Al Daaz,HSR,4.3,"['North Indian', 'Continental', 'BBQ']",1358
+34,35,Gufha - The President Hotel,"The President Hotel, Jayanagar",4.1,"['North Indian', 'Mughlai', 'Afghan']",2006
+35,36,Sattvam,JP Nagar,4.2,"['North Indian', 'South Indian']",650
+36,37,What the Ale?!,Electronic City,4.4,"['Finger Food', 'North Indian', 'Continental', 'Pizza']",472
+37,38,Taaza Thindi,Jayanagar,4.9,['South Indian'],4744
+38,39,Whattay Kitchen and Brew,Kanakapura Road,4.3,"['Finger Food', 'North Indian', 'Italian', 'Biryani', 'Desserts']",307
+39,40,The Barbecue Kingdom,Electronic City,4.5,"['North Indian', 'South Indian', 'Beverages']",462
+40,41,1522 - The Pub,JP Nagar,4.5,"['Chinese', 'North Indian', 'Mughlai', 'Finger Food', 'Seafood']",262
+41,42,Rural Blues,Sarjapur Road,4.4,"['North Indian', 'Continental', 'Italian', 'Salad', 'Biryani']",2030
+42,43,By The Peepal,JP Nagar,4.2,"['Finger Food', 'Continental', 'Italian', 'North Indian']",539
+43,44,Subz,Jayanagar,4.2,['North Indian'],2140
+44,45,Fat Owl,JP Nagar,4.4,"['Finger Food', 'American', 'Asian', 'Steak', 'North Indian', 'South Indian', 'Burger']",504
+45,46,Tipsy Bull - The Bar Exchange,JP Nagar,4.7,"['Finger Food', 'North Indian', 'Continental', 'Pizza']",1872
+46,47,Stories,JP Nagar,4.6,"['American', 'Chinese', 'Continental', 'North Indian']",4035
+47,48,Vidyarthi Bhavan,Basavanagudi,4.3,['South Indian'],4882
+48,49,Chulha Chauki Da Dhaba,JP Nagar,4.5,"['North Indian', 'Chinese', 'Mughlai', 'Beverages']",3570
+49,50,Empire Restaurant,Jayanagar,4.6,"['North Indian', 'Mughlai', 'South Indian', 'Chinese']",6816
+50,51,E - City Combos,Electronic City,3.5,"['South Indian', 'North Indian', 'Chinese', 'Biryani']",14
+51,52,La Casa Brewery And Kitchen,Sarjapur Road,4.5,"['Continental', 'North Indian', 'Fast Food', 'Thai', 'Finger Food', 'Andhra']",2908
+52,53,Onesta,HSR,4.4,"['Italian', 'Pizza', 'Desserts', 'Beverages']",4765
+53,54,Habit@,Bellandur,4.4,"['Finger Food', 'Continental', 'Pizza', 'Chinese', 'North Indian']",349
+54,55,Shift,HSR,4.1,"['Finger Food', 'Continental', 'North Indian', 'Pizza']",2452
+55,56,OPUS Club,"OPUS, Sarjapur Road",4.3,"['Continental', 'Italian', 'North Indian', 'Mexican']",2409
+56,57,Spice It - Ibis Bengaluru,"Ibis Bengaluru, Marathahalli",4.2,"['North Indian', 'Maharashtrian', 'Continental']",727
+57,58,Broadway - The Gourmet Theatre,HSR,4.3,"['Japanese', 'Sushi', 'Continental', 'Asian', 'North Indian']",1432
+58,59,Express by ABs,BTM,3.9,"['North Indian', 'Biryani', 'Kebab', 'BBQ']",40
+59,60,Brother Barley Brewing Company,HSR,4.3,"['Finger Food', 'Continental', 'Italian', 'Asian', 'North Indian', 'Chinese']",518
+60,61,Chili's American Grill & Bar,Bellandur,4.6,"['American', 'Tex-Mex', 'Burger', 'BBQ']",2310
+61,62,The Hidden Home,Sarjapur Road,4.1,"['Asian', 'Chinese', 'Continental', 'North Indian', 'South Indian', 'Biryani']",1632
+62,63,Go Native,Jayanagar,4.3,"['Healthy Food', 'Modern Indian', 'Desserts']",1576
+63,64,Waffle Cart,BTM,3.8,"['Fast Food', 'Desserts', 'Beverages']",113
+64,65,The Punjabi Rasoi,Sarjapur Road,4.2,"['Mughlai', 'North Indian', 'Chinese', 'Beverages']",666
+65,66,Village - The Soul of India,"Bangalore Central, JP Nagar",4.0,"['Rajasthani', 'Gujarati', 'North Indian', 'South Indian']",2538
+66,67,Millennials,JP Nagar,4.4,"['Finger Food', 'Continental', 'North Indian', 'Chinese', 'Coffee']",232
+67,68,Brahmin's Coffee Bar,Basavanagudi,4.7,['South Indian'],2933
+68,69,Kesariya,JP Nagar,4.2,['Rajasthani'],1376
+69,70,Ranganna Military Hotel,Jayanagar,4.2,"['South Indian', 'Biryani']",1026
+70,71,Basil Bistro,HSR,4.5,"['Continental', 'Italian', 'North Indian', 'Chinese']",569
+71,72,Indigo X II P,HSR,4.3,"['Finger Food', 'Continental', 'Chinese', 'Italian', 'North Indian']",1001
+72,73,LIT Gastro Pub,Jayanagar,4.0,"['Chinese', 'Continental', 'Burger', 'Pizza']",621
+73,74,Hammered,HSR,4.4,"['North Indian', 'South Indian', 'Continental', 'Asian']",2152
+74,75,Tea Villa Cafe,Jayanagar,4.3,"['Cafe', 'Tea', 'Continental', 'Desserts']",2139
+75,76,Crumb Together,JP Nagar,4.2,"['Continental', 'Finger Food', 'North Indian', 'Chinese']",907
+76,77,Nandhini Paradise,JP Nagar,3.9,"['Andhra', 'Biryani', 'South Indian', 'North Indian', 'Chinese']",1190
+77,78,Pepe's Pizza,Bellandur,4.2,"['Pizza', 'Italian', 'Burger', 'Sandwich', 'Desserts', 'Beverages']",513
+78,79,Olive Grove,Electronic City,4.2,"['Continental', 'North Indian', 'Chinese', 'Italian', 'Mughlai', 'Kebab']",251
+79,80,Xtreme Sports Bar,Sarjapur Road,4.2,"['Continental', 'Chinese', 'North Indian']",1214
