@@ -1,0 +1,949 @@
+[
+    {
+      "name": "Big Pitcher",
+      "area": "Sarjapur Road",
+      "rating": "4.5",
+      "restaurant_type": [
+        "American",
+        "Continental",
+        "North Indian",
+        "Mediterranean"
+      ],
+      "votes": "214"
+    },
+    {
+      "name": "The Big Barbeque",
+      "area": "Electronic City",
+      "rating": "4.8",
+      "restaurant_type": [
+        "Fast Food",
+        "North Indian"
+      ],
+      "votes": "5337"
+    },
+    {
+      "name": "Xochi Bar And Kitchen",
+      "area": "Bellandur",
+      "rating": "4.6",
+      "restaurant_type": [
+        "North Indian",
+        "Asian",
+        "Chinese",
+        "Bar Food",
+        "Beverages"
+      ],
+      "votes": "589"
+    },
+    {
+      "name": "BLR Brewing Co.",
+      "area": "Electronic City",
+      "rating": "4.4",
+      "restaurant_type": [
+        "Finger Food",
+        "North Indian",
+        "Continental",
+        "Pizza"
+      ],
+      "votes": "488"
+    },
+    {
+      "name": "Dr. Sheesha 24 Hours Gastro Pub",
+      "area": "The Sahar Pavilion, Electronic City",
+      "rating": "4.0",
+      "restaurant_type": [
+        "Chinese",
+        "North Indian",
+        "Fast Food",
+        "Finger Food",
+        "Italian"
+      ],
+      "votes": "230"
+    },
+    {
+      "name": "Byg Brewski Brewing Company",
+      "area": "Sarjapur Road",
+      "rating": "4.9",
+      "restaurant_type": [
+        "Continental",
+        "North Indian",
+        "Italian",
+        "South Indian",
+        "Finger Food",
+        "Pizza"
+      ],
+      "votes": "23096"
+    },
+    {
+      "name": "URU Brewpark",
+      "area": "JP Nagar",
+      "rating": "4.3",
+      "restaurant_type": [
+        "Finger Food",
+        "North Indian",
+        "Continental",
+        "Pizza",
+        "Asian",
+        "Desserts"
+      ],
+      "votes": "1645"
+    },
+    {
+      "name": "Hoot",
+      "area": "Sarjapur Road",
+      "rating": "4.5",
+      "restaurant_type": [
+        "Continental",
+        "Italian",
+        "North Indian"
+      ],
+      "votes": "11467"
+    },
+    {
+      "name": "Brahma Brews",
+      "area": "JP Nagar",
+      "rating": "4.9",
+      "restaurant_type": [
+        "Bar Food",
+        "Asian",
+        "Italian",
+        "North Indian",
+        "South Indian"
+      ],
+      "votes": "4026"
+    },
+    {
+      "name": "The Fisherman's Wharf",
+      "area": "Sarjapur Road",
+      "rating": "4.3",
+      "restaurant_type": [
+        "North Indian",
+        "Continental",
+        "Seafood",
+        "Goan",
+        "Asian"
+      ],
+      "votes": "4521"
+    },
+    {
+      "name": "Masala Mandi",
+      "area": "Sarjapur Road",
+      "rating": "4.6",
+      "restaurant_type": [
+        "North Indian",
+        "Mughlai"
+      ],
+      "votes": "1109"
+    },
+    {
+      "name": "AB's - Absolute Barbecues",
+      "area": "BTM",
+      "rating": "4.8",
+      "restaurant_type": [
+        "European",
+        "Mediterranean",
+        "North Indian",
+        "BBQ"
+      ],
+      "votes": "7750"
+    },
+    {
+      "name": "Shivaji Military Hotel",
+      "area": "Jayanagar",
+      "rating": "4.2",
+      "restaurant_type": [
+        "South Indian",
+        "Biryani"
+      ],
+      "votes": "3410"
+    },
+    {
+      "name": "The Globe Grub",
+      "area": "BTM",
+      "rating": "4.7",
+      "restaurant_type": [
+        "Salad",
+        "North Indian",
+        "Fast Food",
+        "Continental"
+      ],
+      "votes": "2441"
+    },
+    {
+      "name": "Stories - The Brew Chapter",
+      "area": "BTM",
+      "rating": "4.8",
+      "restaurant_type": [
+        "Bar Food",
+        "North Indian",
+        "Continental",
+        "Chinese",
+        "Beverages"
+      ],
+      "votes": "3828"
+    },
+    {
+      "name": "Meghana Foods",
+      "area": "Jayanagar",
+      "rating": "4.5",
+      "restaurant_type": [
+        "Biryani",
+        "Andhra",
+        "North Indian",
+        "Seafood"
+      ],
+      "votes": "5216"
+    },
+    {
+      "name": "The Pump House",
+      "area": "JP Nagar",
+      "rating": "4.5",
+      "restaurant_type": [
+        "Continental",
+        "Finger Food"
+      ],
+      "votes": "2094"
+    },
+    {
+      "name": "Sarjapur Social",
+      "area": "Sarjapur Road",
+      "rating": "4.5",
+      "restaurant_type": [
+        "North Indian",
+        "Chinese",
+        "Biryani",
+        "American",
+        "Continental"
+      ],
+      "votes": "2598"
+    },
+    {
+      "name": "TBC Sky Lounge",
+      "area": "HSR",
+      "rating": "4.9",
+      "restaurant_type": [
+        "Continental",
+        "Asian",
+        "Italian",
+        "North Indian"
+      ],
+      "votes": "15775"
+    },
+    {
+      "name": "Barbeque Nation",
+      "area": "JP Nagar",
+      "rating": "4.9",
+      "restaurant_type": [
+        "North Indian",
+        "European",
+        "Mediterranean",
+        "BBQ",
+        "Kebab"
+      ],
+      "votes": "5695"
+    },
+    {
+      "name": "46 Ounces Brewgarden",
+      "area": "Electronic City",
+      "rating": "4.6",
+      "restaurant_type": [
+        "Bar Food",
+        "Finger Food",
+        "Pizza"
+      ],
+      "votes": "1700"
+    },
+    {
+      "name": "Deja Vu Buffet Bar",
+      "area": "JP Nagar",
+      "rating": "4.6",
+      "restaurant_type": [
+        "North Indian",
+        "Fast Food"
+      ],
+      "votes": "3948"
+    },
+    {
+      "name": "Aurum Brew Works",
+      "area": "Sarjapur Road",
+      "rating": "4.6",
+      "restaurant_type": [
+        "North Indian",
+        "Modern Indian",
+        "South Indian",
+        "Continental"
+      ],
+      "votes": "1965"
+    },
+    {
+      "name": "Mavalli Tiffin Room (MTR)",
+      "area": "Basavanagudi",
+      "rating": "4.4",
+      "restaurant_type": [
+        "South Indian"
+      ],
+      "votes": "3196"
+    },
+    {
+      "name": "Vapour Brewpub and Diner",
+      "area": "Sarjapur Road",
+      "rating": "4.6",
+      "restaurant_type": [
+        "North Indian",
+        "Continental",
+        "Italian"
+      ],
+      "votes": "4776"
+    },
+    {
+      "name": "Grasshopper",
+      "area": "Bannerghatta Road",
+      "rating": "4.3",
+      "restaurant_type": [
+        "European"
+      ],
+      "votes": "788"
+    },
+    {
+      "name": "eat.fit",
+      "area": "HSR",
+      "rating": "4.2",
+      "restaurant_type": [
+        "Healthy Food",
+        "North Indian",
+        "Biryani",
+        "Continental",
+        "Desserts"
+      ],
+      "votes": "1721"
+    },
+    {
+      "name": "Gilly's Restobar",
+      "area": "Electronic City",
+      "rating": "4.6",
+      "restaurant_type": [
+        "Continental",
+        "North Indian",
+        "Chinese",
+        "Salad"
+      ],
+      "votes": "2990"
+    },
+    {
+      "name": "Fire Station",
+      "area": "Electronic City",
+      "rating": "4.7",
+      "restaurant_type": [
+        "Finger Food",
+        "North Indian",
+        "Continental",
+        "Pizza",
+        "Desserts"
+      ],
+      "votes": "2232"
+    },
+    {
+      "name": "Hakuna Matata",
+      "area": "JP Nagar",
+      "rating": "4.4",
+      "restaurant_type": [
+        "North Indian",
+        "Asian",
+        "Seafood",
+        "Chinese"
+      ],
+      "votes": "3177"
+    },
+    {
+      "name": "House Of Commons",
+      "area": "HSR",
+      "rating": "4.8",
+      "restaurant_type": [
+        "Bar Food",
+        "Asian",
+        "North Indian",
+        "Continental",
+        "Italian"
+      ],
+      "votes": "5442"
+    },
+    {
+      "name": "Levitate Brewery and Kitchen",
+      "area": "JP Nagar",
+      "rating": "4.6",
+      "restaurant_type": [
+        "Finger Food",
+        "North Indian",
+        "Continental"
+      ],
+      "votes": "2168"
+    },
+    {
+      "name": "Stegi - Modern Indian",
+      "area": "Jayanagar",
+      "rating": "4.4",
+      "restaurant_type": [
+        "North Indian",
+        "Italian"
+      ],
+      "votes": "877"
+    },
+    {
+      "name": "Al Daaz",
+      "area": "HSR",
+      "rating": "4.3",
+      "restaurant_type": [
+        "North Indian",
+        "Continental",
+        "BBQ"
+      ],
+      "votes": "1358"
+    },
+    {
+      "name": "Gufha - The President Hotel",
+      "area": "The President Hotel, Jayanagar",
+      "rating": "4.1",
+      "restaurant_type": [
+        "North Indian",
+        "Mughlai",
+        "Afghan"
+      ],
+      "votes": "2006"
+    },
+    {
+      "name": "Sattvam",
+      "area": "JP Nagar",
+      "rating": "4.2",
+      "restaurant_type": [
+        "North Indian",
+        "South Indian"
+      ],
+      "votes": "650"
+    },
+    {
+      "name": "What the Ale?!",
+      "area": "Electronic City",
+      "rating": "4.4",
+      "restaurant_type": [
+        "Finger Food",
+        "North Indian",
+        "Continental",
+        "Pizza"
+      ],
+      "votes": "472"
+    },
+    {
+      "name": "Taaza Thindi",
+      "area": "Jayanagar",
+      "rating": "4.9",
+      "restaurant_type": [
+        "South Indian"
+      ],
+      "votes": "4744"
+    },
+    {
+      "name": "Whattay Kitchen and Brew",
+      "area": "Kanakapura Road",
+      "rating": "4.3",
+      "restaurant_type": [
+        "Finger Food",
+        "North Indian",
+        "Italian",
+        "Biryani",
+        "Desserts"
+      ],
+      "votes": "307"
+    },
+    {
+      "name": "The Barbecue Kingdom",
+      "area": "Electronic City",
+      "rating": "4.5",
+      "restaurant_type": [
+        "North Indian",
+        "South Indian",
+        "Beverages"
+      ],
+      "votes": "462"
+    },
+    {
+      "name": "1522 - The Pub",
+      "area": "JP Nagar",
+      "rating": "4.5",
+      "restaurant_type": [
+        "Chinese",
+        "North Indian",
+        "Mughlai",
+        "Finger Food",
+        "Seafood"
+      ],
+      "votes": "262"
+    },
+    {
+      "name": "Rural Blues",
+      "area": "Sarjapur Road",
+      "rating": "4.4",
+      "restaurant_type": [
+        "North Indian",
+        "Continental",
+        "Italian",
+        "Salad",
+        "Biryani"
+      ],
+      "votes": "2030"
+    },
+    {
+      "name": "By The Peepal",
+      "area": "JP Nagar",
+      "rating": "4.2",
+      "restaurant_type": [
+        "Finger Food",
+        "Continental",
+        "Italian",
+        "North Indian"
+      ],
+      "votes": "539"
+    },
+    {
+      "name": "Subz",
+      "area": "Jayanagar",
+      "rating": "4.2",
+      "restaurant_type": [
+        "North Indian"
+      ],
+      "votes": "2140"
+    },
+    {
+      "name": "Fat Owl",
+      "area": "JP Nagar",
+      "rating": "4.4",
+      "restaurant_type": [
+        "Finger Food",
+        "American",
+        "Asian",
+        "Steak",
+        "North Indian",
+        "South Indian",
+        "Burger"
+      ],
+      "votes": "504"
+    },
+    {
+      "name": "Tipsy Bull - The Bar Exchange",
+      "area": "JP Nagar",
+      "rating": "4.7",
+      "restaurant_type": [
+        "Finger Food",
+        "North Indian",
+        "Continental",
+        "Pizza"
+      ],
+      "votes": "1872"
+    },
+    {
+      "name": "Stories",
+      "area": "JP Nagar",
+      "rating": "4.6",
+      "restaurant_type": [
+        "American",
+        "Chinese",
+        "Continental",
+        "North Indian"
+      ],
+      "votes": "4035"
+    },
+    {
+      "name": "Vidyarthi Bhavan",
+      "area": "Basavanagudi",
+      "rating": "4.3",
+      "restaurant_type": [
+        "South Indian"
+      ],
+      "votes": "4882"
+    },
+    {
+      "name": "Chulha Chauki Da Dhaba",
+      "area": "JP Nagar",
+      "rating": "4.5",
+      "restaurant_type": [
+        "North Indian",
+        "Chinese",
+        "Mughlai",
+        "Beverages"
+      ],
+      "votes": "3570"
+    },
+    {
+      "name": "Empire Restaurant",
+      "area": "Jayanagar",
+      "rating": "4.6",
+      "restaurant_type": [
+        "North Indian",
+        "Mughlai",
+        "South Indian",
+        "Chinese"
+      ],
+      "votes": "6816"
+    },
+    {
+      "name": "E - City Combos",
+      "area": "Electronic City",
+      "rating": "3.5",
+      "restaurant_type": [
+        "South Indian",
+        "North Indian",
+        "Chinese",
+        "Biryani"
+      ],
+      "votes": "14"
+    },
+    {
+      "name": "La Casa Brewery And Kitchen",
+      "area": "Sarjapur Road",
+      "rating": "4.5",
+      "restaurant_type": [
+        "Continental",
+        "North Indian",
+        "Fast Food",
+        "Thai",
+        "Finger Food",
+        "Andhra"
+      ],
+      "votes": "2908"
+    },
+    {
+      "name": "Onesta",
+      "area": "HSR",
+      "rating": "4.4",
+      "restaurant_type": [
+        "Italian",
+        "Pizza",
+        "Desserts",
+        "Beverages"
+      ],
+      "votes": "4765"
+    },
+    {
+      "name": "Habit@",
+      "area": "Bellandur",
+      "rating": "4.4",
+      "restaurant_type": [
+        "Finger Food",
+        "Continental",
+        "Pizza",
+        "Chinese",
+        "North Indian"
+      ],
+      "votes": "349"
+    },
+    {
+      "name": "Shift",
+      "area": "HSR",
+      "rating": "4.1",
+      "restaurant_type": [
+        "Finger Food",
+        "Continental",
+        "North Indian",
+        "Pizza"
+      ],
+      "votes": "2452"
+    },
+    {
+      "name": "OPUS Club",
+      "area": "OPUS, Sarjapur Road",
+      "rating": "4.3",
+      "restaurant_type": [
+        "Continental",
+        "Italian",
+        "North Indian",
+        "Mexican"
+      ],
+      "votes": "2409"
+    },
+    {
+      "name": "Spice It - Ibis Bengaluru",
+      "area": "Ibis Bengaluru, Marathahalli",
+      "rating": "4.2",
+      "restaurant_type": [
+        "North Indian",
+        "Maharashtrian",
+        "Continental"
+      ],
+      "votes": "727"
+    },
+    {
+      "name": "Broadway - The Gourmet Theatre",
+      "area": "HSR",
+      "rating": "4.3",
+      "restaurant_type": [
+        "Japanese",
+        "Sushi",
+        "Continental",
+        "Asian",
+        "North Indian"
+      ],
+      "votes": "1432"
+    },
+    {
+      "name": "Express by ABs",
+      "area": "BTM",
+      "rating": "3.9",
+      "restaurant_type": [
+        "North Indian",
+        "Biryani",
+        "Kebab",
+        "BBQ"
+      ],
+      "votes": "40"
+    },
+    {
+      "name": "Brother Barley Brewing Company",
+      "area": "HSR",
+      "rating": "4.3",
+      "restaurant_type": [
+        "Finger Food",
+        "Continental",
+        "Italian",
+        "Asian",
+        "North Indian",
+        "Chinese"
+      ],
+      "votes": "518"
+    },
+    {
+      "name": "Chili's American Grill & Bar",
+      "area": "Bellandur",
+      "rating": "4.6",
+      "restaurant_type": [
+        "American",
+        "Tex-Mex",
+        "Burger",
+        "BBQ"
+      ],
+      "votes": "2310"
+    },
+    {
+      "name": "The Hidden Home",
+      "area": "Sarjapur Road",
+      "rating": "4.1",
+      "restaurant_type": [
+        "Asian",
+        "Chinese",
+        "Continental",
+        "North Indian",
+        "South Indian",
+        "Biryani"
+      ],
+      "votes": "1632"
+    },
+    {
+      "name": "Go Native",
+      "area": "Jayanagar",
+      "rating": "4.3",
+      "restaurant_type": [
+        "Healthy Food",
+        "Modern Indian",
+        "Desserts"
+      ],
+      "votes": "1576"
+    },
+    {
+      "name": "Waffle Cart",
+      "area": "BTM",
+      "rating": "3.8",
+      "restaurant_type": [
+        "Fast Food",
+        "Desserts",
+        "Beverages"
+      ],
+      "votes": "113"
+    },
+    {
+      "name": "The Punjabi Rasoi",
+      "area": "Sarjapur Road",
+      "rating": "4.2",
+      "restaurant_type": [
+        "Mughlai",
+        "North Indian",
+        "Chinese",
+        "Beverages"
+      ],
+      "votes": "666"
+    },
+    {
+      "name": "Village - The Soul of India",
+      "area": "Bangalore Central, JP Nagar",
+      "rating": "4.0",
+      "restaurant_type": [
+        "Rajasthani",
+        "Gujarati",
+        "North Indian",
+        "South Indian"
+      ],
+      "votes": "2538"
+    },
+    {
+      "name": "Millennials",
+      "area": "JP Nagar",
+      "rating": "4.4",
+      "restaurant_type": [
+        "Finger Food",
+        "Continental",
+        "North Indian",
+        "Chinese",
+        "Coffee"
+      ],
+      "votes": "232"
+    },
+    {
+      "name": "Brahmin's Coffee Bar",
+      "area": "Basavanagudi",
+      "rating": "4.7",
+      "restaurant_type": [
+        "South Indian"
+      ],
+      "votes": "2933"
+    },
+    {
+      "name": "Kesariya",
+      "area": "JP Nagar",
+      "rating": "4.2",
+      "restaurant_type": [
+        "Rajasthani"
+      ],
+      "votes": "1376"
+    },
+    {
+      "name": "Ranganna Military Hotel",
+      "area": "Jayanagar",
+      "rating": "4.2",
+      "restaurant_type": [
+        "South Indian",
+        "Biryani"
+      ],
+      "votes": "1026"
+    },
+    {
+      "name": "Basil Bistro",
+      "area": "HSR",
+      "rating": "4.5",
+      "restaurant_type": [
+        "Continental",
+        "Italian",
+        "North Indian",
+        "Chinese"
+      ],
+      "votes": "569"
+    },
+    {
+      "name": "Indigo X II P",
+      "area": "HSR",
+      "rating": "4.3",
+      "restaurant_type": [
+        "Finger Food",
+        "Continental",
+        "Chinese",
+        "Italian",
+        "North Indian"
+      ],
+      "votes": "1001"
+    },
+    {
+      "name": "LIT Gastro Pub",
+      "area": "Jayanagar",
+      "rating": "4.0",
+      "restaurant_type": [
+        "Chinese",
+        "Continental",
+        "Burger",
+        "Pizza"
+      ],
+      "votes": "621"
+    },
+    {
+      "name": "Hammered",
+      "area": "HSR",
+      "rating": "4.4",
+      "restaurant_type": [
+        "North Indian",
+        "South Indian",
+        "Continental",
+        "Asian"
+      ],
+      "votes": "2152"
+    },
+    {
+      "name": "Crumb Together",
+      "area": "JP Nagar",
+      "rating": "4.2",
+      "restaurant_type": [
+        "Continental",
+        "Finger Food",
+        "North Indian",
+        "Chinese"
+      ],
+      "votes": "907"
+    },
+    {
+      "name": "Tea Villa Cafe",
+      "area": "Jayanagar",
+      "rating": "4.3",
+      "restaurant_type": [
+        "Cafe",
+        "Tea",
+        "Continental",
+        "Desserts"
+      ],
+      "votes": "2139"
+    },
+    {
+      "name": "Nandhini Paradise",
+      "area": "JP Nagar",
+      "rating": "3.9",
+      "restaurant_type": [
+        "Andhra",
+        "Biryani",
+        "South Indian",
+        "North Indian",
+        "Chinese"
+      ],
+      "votes": "1190"
+    },
+    {
+      "name": "Pepe's Pizza",
+      "area": "Bellandur",
+      "rating": "4.2",
+      "restaurant_type": [
+        "Pizza",
+        "Italian",
+        "Burger",
+        "Sandwich",
+        "Desserts",
+        "Beverages"
+      ],
+      "votes": "513"
+    },
+    {
+      "name": "Olive Grove",
+      "area": "Electronic City",
+      "rating": "4.2",
+      "restaurant_type": [
+        "Continental",
+        "North Indian",
+        "Chinese",
+        "Italian",
+        "Mughlai",
+        "Kebab"
+      ],
+      "votes": "251"
+    },
+    {
+      "name": "Xtreme Sports Bar",
+      "area": "Sarjapur Road",
+      "rating": "4.2",
+      "restaurant_type": [
+        "Continental",
+        "Chinese",
+        "North Indian"
+      ],
+      "votes": "1214"
+    }
+  ]
