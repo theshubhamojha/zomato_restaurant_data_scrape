@@ -1,0 +1,2 @@
+# zomato_restaurant_data_scrape
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/98752f08d75d4187af4aaeaeaf31e9a4)](https://app.codacy.com/manual/shubhamiitbhu/zomato_restaurant_data_scrape?utm_source=github.com&utm_medium=referral&utm_content=shubhamiitbhu/zomato_restaurant_data_scrape&utm_campaign=Badge_Grade_Dashboard)
